@@ -1,4 +1,4 @@
-package com.fiegn.FiegnClient;
+package com.feign.FeignClient;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @EnableFeignClients
 @RestController
-@RequestMapping("/fiegn-app")
+@RequestMapping("/feign-app")
 public class FiegnClientApplication {
 	
 	

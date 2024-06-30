@@ -1,4 +1,4 @@
-package com.fiegn.FiegnClient;
+package com.feign.FeignClient;
 
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.cloud.openfeign.FeignClient;
